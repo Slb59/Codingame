@@ -1,0 +1,7 @@
+# no environnement, ide files
+__pycache__
+env
+
+# no save files
+*~*
+.idea
